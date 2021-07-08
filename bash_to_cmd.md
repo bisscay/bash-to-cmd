@@ -18,9 +18,9 @@ BASH$ export env_var=executable.py
 
 CMD> set env_var=executable.py
 --------------------------------------
-BASH$
+BASH$ source venv/bin/activate
 
-CMD>
+CMD> venv\Scripts\activate
 --------------------------------------
 BASH$
 
