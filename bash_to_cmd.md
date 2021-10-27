@@ -2,6 +2,8 @@
 | --- | --- |
 | BASH$ | cat trial.py |
 | CMD> | type trial.py |
+| BASH$ | ls -l **|** grep string
+| CMD> | dir **|** findstr string
 | BASH$ | rm -rf * |
 | CMD> | del /s /q * |
 | BASH$ | ls -alr |
