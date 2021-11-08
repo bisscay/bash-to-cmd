@@ -18,3 +18,6 @@
 | | |
 | ln -s folder-name.py soft-link.py | mklink /d link.py folder-name.py
 | | |
+
+***TO DO:***
+*Link each command to an explanation read-me.*
