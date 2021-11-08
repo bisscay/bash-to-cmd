@@ -1,5 +1,7 @@
 | BASH$ | CMD> |
 | :--- | :--- |
+| man ls | help dir |
+| | |
 | cat trial.py | type trial.py |
 | | |
 | ls -l &#124; grep string | dir &#124; findstr string
