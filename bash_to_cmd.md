@@ -16,7 +16,7 @@
 | | |
 | ln file-name.py hard-link.py | mklink /h hard-link.py file-name.py
 | | |
-| ln -s folder-name.py soft-link.py | mklink /d link.py folder-name.py
+| ln -s folder-name soft-link | mklink /d soft-link folder-name
 | | |
 
 ***TO DO:***
