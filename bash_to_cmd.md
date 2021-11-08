@@ -14,3 +14,5 @@
 | | |
 | source venv/bin/activate | venv\Scripts\activate |
 | | |
+| ln file-name.py hard-link.py | mklink /h hard-link.py file-name.py
+| | |
