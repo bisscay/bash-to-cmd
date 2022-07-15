@@ -4,6 +4,8 @@
 | | |
 | cat trial.py | type trial.py |
 | | |
+| touch sample.py | type NUL > trial.py |
+| | |
 | ls -l &#124; grep string | dir &#124; findstr string
 | | |
 | rm -rf * | del /s /q * |
