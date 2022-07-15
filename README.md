@@ -1,5 +1,5 @@
 # bash-to-cmd
-Command prompt equivalents of common bash prompts.
+Command prompt equivalent of common bash prompts.
 
 A mind map for me and my goons.
 
