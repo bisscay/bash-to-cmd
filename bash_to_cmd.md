@@ -1,13 +1,15 @@
-| BASH$ | CMD> |
-| :--- | :--- |
-| man ls | help dir |
-| | |
-| cat trial.py | type trial.py |
-| | |
-| touch sample.py | type NUL > trial.py |
-| | |
-| ls -l &#124; grep string | dir &#124; findstr string
-| | |
+| BASH$ | CMD> | PowerShell> |
+| :--- | :--- | :--- |
+| man ls | help dir | |
+| | | |
+| cat trial.py | type trial.py | |
+| | | |
+| $JAVA_HOME | echo %JAVA_HOME% | $env:JAVA_HOME | 
+| | | |
+| touch sample.py | type NUL > trial.py | |
+| | | |
+| ls -l &#124; grep string | dir &#124; findstr string | |
+| | | |
 | rm -rf * | del /s /q * |
 | | |
 | ls -alr | dir /s |
